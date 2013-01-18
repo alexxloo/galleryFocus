@@ -22,10 +22,11 @@
       "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
     }
   ],
+  "demo": "http://mediaupstream.com/sandbox/gallery-focus/",
   "bugs": "https://github.com/mediaupstream/galleryFocus/issues",
-  "homepage": "http://mediaupstream.com/sandbox/gallery-focus/",
+  "homepage": "https://github.com/mediaupstream/galleryFocus",
   "docs": "http://mediaupstream.com/sandbox/gallery-focus/",
-  "download": "http://mediaupstream.com/sandbox/gallery-focus/",
+  "download": "https://raw.github.com/mediaupstream/galleryFocus/master/jquery.galleryFocus.js",
   "dependencies": {
     "jquery": ">=1.4"
   }
