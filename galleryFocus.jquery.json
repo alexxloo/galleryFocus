@@ -1,0 +1,32 @@
+{
+  "name": "galleryFocus",
+  "title": "Gallery Focus",
+  "description": "A jQuery plugin that fades html elements based on their proximity to a source.",
+  "keywords": [
+    "gallery",
+    "fade",
+    "interactive",
+    "focus",
+    "galleryfocus",
+    "photo",
+    "proximity"
+  ],
+  "version": "0.1.0",
+  "author": {
+    "name": "Derek Anderson",
+    "url": "http://mediaupstream.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+    }
+  ],
+  "bugs": "https://github.com/mediaupstream/galleryFocus/issues",
+  "homepage": "http://mediaupstream.com/sandbox/gallery-focus/",
+  "docs": "http://mediaupstream.com/sandbox/gallery-focus/",
+  "download": "http://mediaupstream.com/sandbox/gallery-focus/",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
